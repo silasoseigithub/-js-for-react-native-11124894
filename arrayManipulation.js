@@ -13,5 +13,10 @@ const numbers = [1, 4, 3, 6, 8];
 const processedNumbers = processArray(numbers);
 const modifiedStrings = ["Hello", "World", "JavaScript"];
 const formattedStrings = formatArrayStrings(modifiedStrings, processedNumbers);
-console.log(formattedStrings);
 console.log(processedNumbers);
+console.log(formattedStrings);
+
+
+// Expected output:
+// [3, 16, 9, 36, 27]
+// ['silas', 'OSEI', 'frank', 'COMPUTER', 'science']
