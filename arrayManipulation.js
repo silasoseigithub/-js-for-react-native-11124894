@@ -14,3 +14,4 @@ const processedNumbers = processArray(numbers);
 const modifiedStrings = ["Hello", "World", "JavaScript"];
 const formattedStrings = formatArrayStrings(modifiedStrings, processedNumbers);
 console.log(formattedStrings);
+console.log(processedNumbers);
