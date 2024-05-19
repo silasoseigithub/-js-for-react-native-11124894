@@ -19,9 +19,9 @@ const userprofiles = createUserProfiles(names);
 
  
 // Expected output:
-// {originalName: 'Osei',modifiedName: 'OSEI', id: 1}
-// {originalName: 'Osei',modifiedName: 'OSEI', id: 2}
-// {originalName: 'Osei',modifiedName: 'OSEI', id: 3}
+// {originalName: 'Osei',modifiedName: 'osei', id: 1}
+// {originalName: 'Peter',modifiedName: 'PETER', id: 2}
+// {originalName: 'Silas',modifiedName: 'silas', id: 3}
 
 
   
