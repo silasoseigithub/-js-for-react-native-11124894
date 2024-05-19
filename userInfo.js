@@ -18,6 +18,11 @@ const userprofiles = createUserProfiles(names);
  console.log(userprofiles);
 
  
+// Expected output:
+// {originalName: 'Osei',modifiedName: 'OSEI', id: 1}
+// {originalName: 'Osei',modifiedName: 'OSEI', id: 2}
+// {originalName: 'Osei',modifiedName: 'OSEI', id: 3}
+
 
   
  
@@ -25,7 +30,6 @@ const userprofiles = createUserProfiles(names);
  
 
 
-// Expected output:
  
 
 
