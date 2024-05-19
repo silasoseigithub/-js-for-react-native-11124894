@@ -11,7 +11,7 @@ function formatArrayStrings(strings, processedNumbers) {
 // You can call the functions here for testing purposes (optional)
 const numbers = [1, 4, 3, 6, 8];
 const processedNumbers = processArray(numbers);
-const modifiedStrings = ["Hello", "World", "JavaScript"];
+const modifiedStrings = ["Osei", "Peter","Silas"];
 const formattedStrings = formatArrayStrings(modifiedStrings, processedNumbers);
 console.log(processedNumbers);
 console.log(formattedStrings);
@@ -19,4 +19,4 @@ console.log(formattedStrings);
 
 // Expected output:
 // [3, 16, 9, 36, 27]
-// ['silas', 'OSEI', 'frank', 'COMPUTER', 'science']
+// ['osei', 'PETER', 'silas']
