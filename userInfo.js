@@ -9,6 +9,8 @@ function createUserProfiles(names, modifiedNames) {
  const userprofiles=createUserProfiles(names,formattedStrings);
  console.log(userprofiles);
 
+
+// Expected output:
  
 
 
